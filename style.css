@@ -23,7 +23,7 @@ body {
     height: 600px;
     background-color: #000080;
     border-radius: 10px;
-    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.3);
 }
 
 .counter-number {
