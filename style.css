@@ -21,9 +21,14 @@ body {
     max-width: 100%;
     margin: 50px 50px;
     height: 600px;
-    background-color: #000080;
+    background-color: #FAF9F6;
+    border: 1px transparent #000000;
     border-radius: 10px;
-    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 5px 5px 50px rgba(0, 0, 0, 0.2);
+}
+
+.inner-wrapper {
+    outline: 20px #000000;
 }
 
 .counter-number {
@@ -49,7 +54,7 @@ body {
     margin-right: 5px;
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 05px;
-    border: 0;
+    border: 1px solid #000000;
     color: #000000;
     outline: none;
 }
